@@ -6,10 +6,10 @@
 
 - 💬 Ask me about anything [here](https://github.com/sakupinera/sakupinera/issues)
 
-| <a href="https://github.com/sakupinera/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sakupinera&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/sakupinera/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakupinera&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/sakupinera/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sakupinera&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sakupinera's github stats" /></a> | <a href="https://github.com/sakupinera/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakupinera&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-![Sakuya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sakupinera&theme=buefy)
+![Sakupinera's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sakupinera&theme=buefy)
 
 <p align = "center">
   <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=wangscaler&theme=buefy" width="45%">
