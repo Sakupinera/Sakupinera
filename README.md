@@ -1,21 +1,12 @@
 ### Hi there! I'm Sakuya 👋
-<p align="center"><a href="https://sakupinera.github.io"><img width="80%" alt="Hello, I'm Sakuya.!" src="./assets/background.jpg" /></a></p>
-
-This is my blog : ✨ [https://sakupinera.github.io/](https://sakupinera.github.io/)✨ 
 
 <br />
 
 **About me**
 
-- 💼 
+- ❤️ This is my blog : ✨ [https://sakupinera.github.io/](https://sakupinera.github.io/)✨ 
 
-- 📈 
-
-- ❤️ 
-
-- 💬 
-
-(https://github.com/Sakupinera/Sakupinera/issues)
+- 💬 Ask me about anything [here](https://github.com/sakupinera/sakupinera/issues)
 
 <p align = "center">   <img src = "https://github-readme-stats.vercel.app/api?username=Sakupinera&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sakupinera&layout=compact&theme=radical&hide_border=true"> </p>
 
