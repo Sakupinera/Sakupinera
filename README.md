@@ -6,13 +6,10 @@
 
 - 💬 Ask me about anything [here](https://github.com/sakupinera/sakupinera/issues)
 
+| <a href="https://github.com/sakupinera/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sakupinera&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/sakupinera/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakupinera&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Sakupinera&count_private=true&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sakupinera&theme=radical">
-</p>
-
-<p align = "center">
-  <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=wangscaler&theme=radical" width="45%">
+  <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=wangscaler&theme=buefy" width="45%">
 </p>
 
 <!--
