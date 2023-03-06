@@ -2,7 +2,7 @@
 
 **About me**
 
-- ❤️ This is my blog : ✨ [https://sakupinera.github.io/](https://sakupinera.github.io/)✨ 
+- ❤️ This is my blog : ✨ [https://sakupinera.github.io](https://sakupinera.github.io/)✨ 
 
 - 💬 Ask me about anything [here](https://github.com/sakupinera/sakupinera/issues)
 
