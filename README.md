@@ -6,7 +6,7 @@
 
 - 💬 Ask me about anything [here](https://github.com/sakupinera/sakupinera/issues)
 
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=sakupinera&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sakupinera's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakupinera&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakupinera&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sakupinera's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakupinera&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ![Sakupinera's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sakupinera&theme=buefy)
