@@ -12,7 +12,7 @@
 ![Sakupinera's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sakupinera&theme=buefy)
 
 <p align = "center">
-  <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=wangscaler&theme=buefy" width="45%">
+  <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=sakupinera&theme=buefy" width="45%">
 </p>
 <p align = "center" >   <img src = "https://komarev.com/ghpvc/?username=sakupinera" > </p> 
 
